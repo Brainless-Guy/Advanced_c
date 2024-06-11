@@ -5,7 +5,7 @@
 # How to use (All Functions Explained!)
 
 Download the Module by this command ( on linux or Windows if you have git)
->`$ git clone `
+>`$ git clone https://github.com/Brainless-Guy/Advanced_c.git`
 
 - After Downloading , Place the module on the same place where the project exists on which you want to import the module
 >  `import advanced_c`
